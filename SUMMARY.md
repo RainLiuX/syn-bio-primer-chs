@@ -6,7 +6,7 @@
 * [工科基本概念](basic/README.md)
 * [基础技术](found/README.md)
 * [最简细胞与合成生命](min/README.md)
-    * [最简细胞](min/minimal-cells.md)
+    * [最小化细胞](min/minimal-cells.md)
     * [合成生命](min/synthetic-life.md)
     * [自然中与实验室中的生命起源](min/origins-of-life-in-nature-and-in-the-lab.md)
 * [组件、装置与系统](parts/README.md)
